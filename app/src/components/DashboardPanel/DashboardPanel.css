@@ -1,0 +1,12 @@
+#dashboardPanel{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    display: flex;
+}
+
+#dashboardPanel__canvases{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}

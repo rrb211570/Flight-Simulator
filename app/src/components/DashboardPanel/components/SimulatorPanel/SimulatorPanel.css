@@ -1,0 +1,7 @@
+#simulatorPanel{
+    flex-grow: 1;
+}
+
+#simulatorPanel__canvas{
+    position: absolute;
+}

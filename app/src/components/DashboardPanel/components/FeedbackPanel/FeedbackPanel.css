@@ -1,0 +1,7 @@
+#feedbackPanel{
+    flex-grow: 1;
+}
+
+#feedbackPanel__canvas{
+    position: absolute;
+}

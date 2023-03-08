@@ -1,0 +1,17 @@
+#controlPanel{
+    height: auto;
+    flex-grow: 1;
+}
+
+#controlPanel__header{
+    text-align: center;
+    font-size: 1rem;
+    height: 40px;
+    margin: 0;
+}
+
+#controlPanel__body{
+    height: calc(100% - 40px);
+    display: grid;
+    place-items: center;
+}
