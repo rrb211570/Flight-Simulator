@@ -10,4 +10,4 @@ Built in React + Three.js. It is composed of a control panel for initialization,
 
 **Feedback Panel:** Three.js canvas that consumes simulation data, and displays actual flight path.
 
-**Possibility Simulator Panel:** Test logic that runs Monte Carlo on the three-part simulation. The test logic applies randomly-generated noise scenarios (within defined range) for thousands of times and graphs the results.
+**Possibility Simulator Panel:** Monte Carlo test runner for the three-part simulation. The runner applies randomly-generated noise scenarios (within defined range) for thousands of times and graphs the results.
